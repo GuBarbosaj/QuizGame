@@ -42,7 +42,7 @@ Download do **Spring Tools Suite**
 https://spring.io/tools
 ```
 
-### OBSERVAÇÕES
+### Observações
 
 * Certifique-se que a porta 8080 não esteja sendo usada por nenhuma outra aplicação. Caso contrario, a API não funcionará corretamente!
 * O projeto também poderá ser iniciado e executado por outras IDE's, como **Intellij** ou **Eclipse**. Desde que a máquina/IDE tenham todas as dependências da aplicação.
@@ -50,4 +50,4 @@ https://spring.io/tools
 
 ## Autor
 
-* **Gustavo Jesus Barbosa** - [Linkedin](https://www.linkedin.com/in/gustavo-barbosa-92257a187/)
+**Gustavo Jesus Barbosa** - [Linkedin](https://www.linkedin.com/in/gustavo-barbosa-92257a187/)
