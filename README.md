@@ -1,5 +1,5 @@
 # API-QUIZGAME
-API Rest desenvolvido usando Java com Spring Boot e banco de dados H2. 
+API Rest desenvolvido utilizando Java com Spring Boot e banco de dados H2. 
 
 * **Método GET ("/quiz"):** Retorna uma lista em formato JSON, que contém 5 perguntas e suas respectivas respostas.
 
@@ -28,7 +28,7 @@ API Rest desenvolvido usando Java com Spring Boot e banco de dados H2.
 Java -jar "NOMEDOARQUIVO.jar"
 ```
 
-### Pré requisitos
+## Pré requisitos
 
 Para rodar a API é necessário ter a *Java 8* ou superior instalado na maquina.
 
@@ -42,7 +42,7 @@ Download do **Spring Tools Suite**
 https://spring.io/tools
 ```
 
-### Observações
+## Observações
 
 * Certifique-se que a porta 8080 não esteja sendo usada por nenhuma outra aplicação. Caso contrario, a API não funcionará corretamente!
 * O projeto também poderá ser iniciado e executado por outras IDE's, como **Intellij** ou **Eclipse**. Desde que a máquina/IDE tenham todas as dependências da aplicação.
