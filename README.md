@@ -1,4 +1,4 @@
-# API-QUIZGAME
+# BACKEND-QUIZGAME
 API Rest desenvolvido utilizando Java com Spring Boot e banco de dados H2. 
 
 * **Método GET ("/quiz"):** Retorna uma lista em formato JSON, que contém 5 perguntas e suas respectivas respostas.
