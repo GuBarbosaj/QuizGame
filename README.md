@@ -6,19 +6,19 @@ API Rest usando Java com Spring Boot e banco de dados H2.
 
 ## Iniciando no Projeto
 
-* 1 - Clone ou faça o download do repositorio "QuizGame" para sua maquína.
+* 1 - Clone ou faça o download do repositorio **QuizGame** para sua maquína.
 * 2 - Descompacte a pasta do projeto.
 * 2 - Abra o **Spring Tool Suite**.
-* 3 - Clique em "File > Open Projects From File System", no campo "Import Source" selecione o diretorio da pasta descompactada.
+* 3 - Clique em "*File* > *Open Projects From File System*", no campo "*Import Source*" selecione o diretorio da pasta descompactada.
 * 4 - Clique em *Finish*, e aguarde o projeto ser totalmente carregado.
-* 5 - Após carregado, selecione o projeto e clique em "Run > Run As > Spring boot App".
-* 6 - Você poderá ver os status da inicialização da API no "Console" do Spring Boot Tools.
+* 5 - Após carregado, selecione o projeto e clique em "*Run* > *Run As* > *Spring boot App*".
+* 6 - Você poderá ver os status da inicialização da API no "*Console*" do Spring Boot Tools.
 * 7 - Para testar a API, basta fazer uma requisição GET pelo proprio navegador através do caminho "http://localhost:8080/quiz".
 
 
 ### Pré requisitos
 
-Para rodar a API é necessário ter a *Java 8* instalado na maquina.
+Para rodar a API é necessário ter a *Java 8* ou superior instalado na maquina.
 
 ```
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnpt
