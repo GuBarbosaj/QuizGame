@@ -14,7 +14,7 @@ API Rest desenvolvida utilizando Java com Spring Boot e banco de dados H2.
 * 4 - Clique em *Finish*, e aguarde o projeto ser totalmente carregado.
 * 5 - Após carregado, selecione o projeto e clique em "*Run* > *Run As* > *Spring boot App*".
 * 6 - Você poderá ver os status da inicialização da API no *Console* do **Spring Tool Suite**.
-* 7 - Para testar a API, basta fazer uma requisição GET pelo proprio navegador através do caminho "http://localhost:8080/quiz".
+* 7 - Para testar a API, basta fazer uma requisição GET pelo proprio navegador através do caminho "*http://localhost:8080/quiz*".
 
 ## Criando um **.jar** da API e executando
 * 1 - A construção do **.jar** pode ser feita com o auxilio do **Maven**.
