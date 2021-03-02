@@ -1,9 +1,7 @@
 # API-QUIZGAME
 API Rest desenvolvido usando Java com Spring Boot e banco de dados H2. 
 
-* Método GET ("/quiz"): Retorna uma lista de perguntas e suas respectivas respostas em formato JSON.
-
-
+* **Método GET ("/quiz"):** Retorna uma lista formato JSON, que contém 5 perguntas e suas respectivas respostas.
 
 ## Executando o projeto pelo **Spring Tool Suite**
 
@@ -36,6 +34,12 @@ Para rodar a API é necessário ter a *Java 8* ou superior instalado na maquina.
 
 ```
 http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html?ssSourceSiteId=otnpt
+```
+
+Download do **Spring Tools Suite**
+
+```
+https://spring.io/tools
 ```
 
 ### OBSERVAÇÕES
