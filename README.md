@@ -3,8 +3,6 @@ API Rest desenvolvida utilizando Java com Spring Boot e banco de dados H2.
 
 * **Método GET ("/quiz"):** Retorna uma lista em formato JSON, que contém 5 perguntas e suas respectivas respostas.
 
-![alt text](https://github.com/GuBarbosaj/QuizGameFrontEnd/blob/main/capturas/listaJson.png)
-
 ## Executando o projeto pelo **Spring Tool Suite**
 
 * 1 - Clone ou faça o download do repositorio **QuizGameBackend** para sua maquína.
